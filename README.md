@@ -2,6 +2,8 @@
 
 bilsege , bir evrenkent ağıdır
 
+![bilsege](img/bilsege.svg)
+
 # License
 
 bilsege , bir evrenkent ağıdır
